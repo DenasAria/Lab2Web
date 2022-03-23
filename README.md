@@ -1,6 +1,6 @@
-## Nama : Muhammad Rifai Aditiya
-## Kelas : TI.20.A1
-## Nim : 312010065
+## Nama   : Denas Aria Pamungkas
+## Kelas  : TI.20.A1
+## Nim    : 312010089
 ## Mata Kuliah : Web Pemrograman
 
 ## Pertemuan 3
